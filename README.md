@@ -11,3 +11,5 @@ Instead send a mobile object (drone, etc) which can go to multiple locations and
 Currently the project lacks the IoT part, rest everything is complete. 
 The only upgrade required is an ESP32 which has both wifi and bluetooth modules. 
 Currently used is Arduino UNO which lacks these modules.
+
+YouTube video link: https://www.youtube.com/watch?v=tiGqe8D3GXA
